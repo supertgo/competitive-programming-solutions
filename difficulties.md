@@ -1,0 +1,3 @@
+- Do not know the lib to read from input keyboard
+- Makefile setup
+- Do not know how to set up the config for keyboard user's read.
